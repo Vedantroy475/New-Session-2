@@ -52,6 +52,8 @@ int main()
 				printf("%d ", d[i][j]);
 			printf("\n");
 		}
+
+		printf("Hello java lovers");
 	}
     return 0;
 }
